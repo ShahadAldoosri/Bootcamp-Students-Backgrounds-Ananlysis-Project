@@ -21,6 +21,6 @@ Understand students' backgrounds.
 Adjust the curriculum based on the class mix.
 Provide a better experience tailored to different types of students.
 ## Tools Used
--Microsoft Excel
--Pivot Tables
--COUNT function
+##### -Microsoft Excel
+##### -Pivot Tables
+##### -COUNT function
